@@ -1,0 +1,5 @@
+mkdir variables_operaciones
+mkdir ciclos_condicionales
+mkdir crud_nativo
+mkdir investigacion_libreria
+touch README.md
